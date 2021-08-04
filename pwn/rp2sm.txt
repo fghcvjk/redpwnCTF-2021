@@ -1,0 +1,9 @@
+pwn/rp2sm
+asphyxia
+4 solves / 436 points
+
+Part 2 of 2
+
+The flag for this part is in flag2.txt.
+
+You already have everything you need from part 1 (rev/rp2sm).

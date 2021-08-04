@@ -1,0 +1,7 @@
+crypto/yahtzee
+AdnanSlef
+103 solves / 128 points
+
+Pseudo-random number generators are weak! I use only true RNGs, like rolling a set of dice!
+
+nc mc.ax 31076

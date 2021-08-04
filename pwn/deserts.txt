@@ -1,0 +1,9 @@
+pwn/deserts
+NotDeGhost
+4 solves / 436 points
+
+Two vast and trunkless legs of stone Stand in the desert...
+
+Note that this is a two part challenge. The first part is Empires.
+
+https://deserts.mc.ax/submit
